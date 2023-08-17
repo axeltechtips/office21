@@ -22,9 +22,11 @@
     <Product ID="ProPlus2021Volume">
       <Language ID="en-us" />
       <ExcludeApp ID="Lync" />
-	  <ExcludeApp ID="Project" />
+      <ExcludeApp ID="Visio" />
       <ExcludeApp ID="Project" />
-
+       </Product>
+  </Add>
+</Configuration>
   <Remove All="True" />
 
   <!--  <RemoveMSI All="True" /> -->
