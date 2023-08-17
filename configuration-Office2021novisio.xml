@@ -24,7 +24,7 @@
       <ExcludeApp ID="Lync" />
       <ExcludeApp ID="Visio" />
       <ExcludeApp ID="Project" />
-    </Product?
+    </Product>
 
   </Add>
      
